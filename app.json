@@ -1,0 +1,14 @@
+{
+  "name": "lesseu",
+  "description": "Deploy lesseu on Heroku.",
+  "keywords": [],
+  "env": {
+    "ID": {
+      "value": "",
+      "description": ""
+    }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+}
